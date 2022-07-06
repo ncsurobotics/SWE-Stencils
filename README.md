@@ -48,8 +48,8 @@
   * Engrave Text: Yes
     * Stencil Remark: 
       <p> NCSU URC SW8 - Month Year<br>
-      Repo Used Rev \#.\#<br>
-      Repo Used Rev \#.\#<br>
+      "Repo Used" Rev \#.\#<br>
+      "Repo Used" Rev \#.\#<br>
       ...</p>
 6. Check the preview again
 7. Save to Cart
