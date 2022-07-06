@@ -33,7 +33,7 @@
 2. Click on SMT Stencil Quote Now
 3. Add the .zip file where it says to Add gerber file
 4. Check that the preview looks right
-5. Fill out options
+5. Fill out options (Feel free to edit but this generates minimal cost)
   * Framework: No
   * Step Stencil: No
   * Dimensions: Smallest size (380mmx280mm)
